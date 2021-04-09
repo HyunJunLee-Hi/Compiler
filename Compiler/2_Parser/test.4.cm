@@ -1,0 +1,12 @@
+int a[3];
+void a;
+int main(void)
+{
+	int a[3];
+	x =a[2];
+}
+int main(void)
+{
+
+	while(3 < 4);
+}
